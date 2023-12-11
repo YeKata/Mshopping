@@ -1,1 +1,0 @@
-import{_ as o}from"./entry.16d1cc6a.js";import{A as t,B as c}from"./swiper-vue.17f8de98.js";const _={},e={class:"cp-bottom"};function n(r,s){return t(),c("div",e," copyright © by ysj ")}const p=o(_,[["render",n]]);export{p as _};
