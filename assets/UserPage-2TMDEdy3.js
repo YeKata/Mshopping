@@ -1,0 +1,1 @@
+import{d as o,f as a,c as n,e as t,o as s}from"./index-4Az9mWZ0.js";const p=o({__name:"UserPage",setup(c){return(r,_)=>{const e=a("ModalPageVue");return s(),n("div",null,[t(e)])}}});export{p as default};
