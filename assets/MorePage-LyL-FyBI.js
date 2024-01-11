@@ -1,0 +1,1 @@
+import{d as o,u as t,c as a,e as r,h as s,i as n,o as c}from"./index-pj1NBf2R.js";const p=o({__name:"MorePage",setup(u){const e=t();return(m,_)=>(c(),a("div",null,[r(n,{product:s(e).moreItem.values},null,8,["product"])]))}});export{p as default};
